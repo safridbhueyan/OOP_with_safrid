@@ -1,7 +1,7 @@
-
+ 
 package java_oop;
 /*
-we willlearn how to create a Method in class
+we will learn how to create a Method in class
 to avoid the code repetition
 */
 public class Student {
