@@ -19,6 +19,6 @@ public class Student {
         System.out.println(section);
         System.out.println(gender);
         System.out.println(phone);
-    
+        System.out.println("\n");
     }
 }
